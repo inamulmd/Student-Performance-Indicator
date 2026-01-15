@@ -1,1 +1,1 @@
-### Student Performance Indncator ML Project
+### Student Performance Indicator ML Project
