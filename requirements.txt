@@ -1,6 +1,10 @@
-pandas
 numpy
+pandas
 seaborn
 scikit-learn
 dill
+xgboost
+catboost
+
+
 #-e . #automically trigger setup.py
