@@ -5,6 +5,6 @@ scikit-learn
 dill
 xgboost
 catboost
-
+Flask
 
 #-e . #automically trigger setup.py
